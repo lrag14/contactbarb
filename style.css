@@ -30,7 +30,7 @@ object-fit: contain;
 .wrapper{
   width: 715px;
   background: #000;
-  opacity: 0.7;
+  opacity: 0.8;
   border-radius:30px;
   box-shadow: 10px 10px 10px rgba(0,0,0,0.05);
 }
@@ -131,7 +131,8 @@ form .button-area{
   background: #f30404f3;
 }
 .button-area span{
-  font-size: 17px;
+  font-size: 30px;
+  font-weight: bolder;
   margin-left: 30px;
   display: none;
 }
